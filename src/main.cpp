@@ -99,8 +99,8 @@ void controlarEnvio(bool gpsOk, float lat, float lng) {
 // --------------------------------------------
 // MÓDULO 3.3.3 — COMUNICACIÓN WiFi/HTTP
 // --------------------------------------------
-const char* ssid     = "Fam.Piteco.Villa.313";
-const char* password = "Letsomebodygo2611@";
+const char* ssid     = "";
+const char* password = "";
 const char* serverURL = "https://webhook.site/73b0fcd6-a022-4b71-932a-5dc4c2dd6a44";
 
 void wifiSetup() {
